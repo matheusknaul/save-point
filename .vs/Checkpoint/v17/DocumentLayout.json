@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9207A994-9FFB-4121-B611-BB3EF4558832}|Core\\Models\\Models.csproj|c:\\users\\matheus.henrique\\source\\repos\\checkpoint\\core\\models\\entities\\registermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9207A994-9FFB-4121-B611-BB3EF4558832}|Core\\Models\\Models.csproj|solutionrelative:core\\models\\entities\\registermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D71E4-7DB8-4A46-9E35-09ED70808A09}|Tests\\UnitTests\\UnitTests.csproj|c:\\users\\matheus.henrique\\source\\repos\\checkpoint\\tests\\unittests\\registermanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D71E4-7DB8-4A46-9E35-09ED70808A09}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\registermanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1D71E4-7DB8-4A46-9E35-09ED70808A09}|Tests\\UnitTests\\UnitTests.csproj|c:\\users\\matheus.henrique\\source\\repos\\checkpoint\\tests\\unittests\\entities\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1D71E4-7DB8-4A46-9E35-09ED70808A09}|Tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\entities\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9207A994-9FFB-4121-B611-BB3EF4558832}|Core\\Models\\Models.csproj|c:\\users\\matheus.henrique\\source\\repos\\checkpoint\\core\\models\\entities\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9207A994-9FFB-4121-B611-BB3EF4558832}|Core\\Models\\Models.csproj|solutionrelative:core\\models\\entities\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9207A994-9FFB-4121-B611-BB3EF4558832}|Core\\Models\\Models.csproj|c:\\users\\matheus.henrique\\source\\repos\\checkpoint\\core\\models\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9207A994-9FFB-4121-B611-BB3EF4558832}|Core\\Models\\Models.csproj|solutionrelative:core\\models\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D456F063-F8A7-4C1C-9C52-F99565D7FFC9}|Core\\Interfaces\\Interfaces.csproj|c:\\users\\matheus.henrique\\source\\repos\\checkpoint\\core\\interfaces\\isavepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D456F063-F8A7-4C1C-9C52-F99565D7FFC9}|Core\\Interfaces\\Interfaces.csproj|solutionrelative:core\\interfaces\\isavepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Tests\\UnitTests\\Entities\\Sample.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\Entities\\Sample.cs",
+              "ToolTip": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Tests\\UnitTests\\Entities\\Sample.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\Entities\\Sample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:00:38.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterManagerTest.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Tests\\UnitTests\\RegisterManagerTest.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\RegisterManagerTest.cs",
+              "ToolTip": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Tests\\UnitTests\\RegisterManagerTest.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\RegisterManagerTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:49:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterManager.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Models\\Entities\\RegisterManager.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Entities\\RegisterManager.cs",
+              "ToolTip": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Models\\Entities\\RegisterManager.cs",
+              "RelativeToolTip": "Core\\Models\\Entities\\RegisterManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:37:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Models\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Enums\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Models\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "Core\\Models\\Enums\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:23:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Models\\Entities\\Register.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Entities\\Register.cs",
+              "ToolTip": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Models\\Entities\\Register.cs",
+              "RelativeToolTip": "Core\\Models\\Entities\\Register.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:07:00.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISavePoint.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Interfaces\\ISavePoint.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ISavePoint.cs",
+              "ToolTip": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Core\\Interfaces\\ISavePoint.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ISavePoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:06:14.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
