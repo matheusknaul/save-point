@@ -1,4 +1,6 @@
-﻿using UnitTests.Entities;
+﻿using Models.Entities;
+using UnitTests.Entities;
+using UnitTests.FakeBuilders;
 
 namespace UnitTests
 {
@@ -18,6 +20,14 @@ namespace UnitTests
         [InlineData(35)]
         public void CreateManager_WhenCalled_ShouldAssignIncrementalId(int samplesQuantity)
         {
+            var registerManager = new RegisterManager<Sample>();
+
+            for(int i = 0; i < samplesQuantity; i++)
+            {
+                registerManager.CreateRegister(FakeSample.Create());
+            }
+
+            Assert.Equal(samplesQuantity, registerManager.LastId);
 
         }
 
