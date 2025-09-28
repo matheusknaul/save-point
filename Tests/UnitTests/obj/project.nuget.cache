@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "keKzg7JlBjY=",
+  "dgSpecHash": "iUqwYKHLeZU=",
   "success": true,
   "projectFilePath": "C:\\Users\\matheus.henrique\\source\\repos\\Checkpoint\\Tests\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\matheus.henrique\\.nuget\\packages\\bogus\\35.6.4\\bogus.35.6.4.nupkg.sha512",
     "C:\\Users\\matheus.henrique\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\matheus.henrique\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\matheus.henrique\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
