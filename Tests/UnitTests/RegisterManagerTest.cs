@@ -27,9 +27,10 @@ namespace UnitTests
                 registerManager.CreateRegister(FakeSample.Create());
             }
 
-            Assert.Equal(samplesQuantity, registerManager.LastId);
-
+            Assert.Equal(samplesQuantity, registerManager.LastRegisterId);
         }
+
+
 
         #endregion
     }
